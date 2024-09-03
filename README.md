@@ -30,3 +30,7 @@ Hirrd is a comprehensive platform designed to bridge the gap between job seekers
 - **Backend**:
   - **Supabase**: Backend-as-a-Service for database management and real-time capabilities.
   - **Clerk**: User management and authentication.
+
+## Deployed Link:-
+
+[**www.hirrdjobs.netlify.app**](https://hirrdjobs.netlify.app)
