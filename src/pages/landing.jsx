@@ -37,12 +37,12 @@ const LandingPage = () => {
       </section>
       <div className="flex gap-6 justify-center">
         <Link to={"/jobs"}>
-          <Button variant="blue" size="xl">
+          <Button variant="blue" size="lg">
             Find Jobs
           </Button>
         </Link>
         <Link to={"/post-job"}>
-          <Button variant="destructive" size="xl">
+          <Button variant="destructive" size="lg">
             Post a Job
           </Button>
         </Link>
@@ -68,7 +68,7 @@ const LandingPage = () => {
         </CarouselContent>
       </Carousel>
 
-      <img src="/banner.jpeg" className="w-3/4 py-2 m-auto" />
+      <img src="/banner.jpeg" className="w-100 sm:w-3/4 py-1 m-auto" />
 
       <section className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <Card>
